@@ -1,0 +1,73 @@
+.banner-holder, .main-page-header{
+	background-image: url(../images/ac.jpg);
+	background-size: cover;
+	background-position: bottom;
+}
+.custom-nav{
+	backdrop-filter: blur(8px);
+}
+.textedited1 {
+	text-shadow: 2px, 2px, 3px, blue;
+}
+
+.textindex{
+  color:#2E8B57;
+  text-shadow:1px 1px 10px #fff, 1px 1px 10px #fff;
+  font-size:70px;
+  text-align:center;
+  font-weight: 700;
+}
+.textindex1{
+  text-shadow:1px 1px 10px #fff, 1px 1px 10px #fff;
+  font-size:20px;
+  text-align:center;
+  font-weight: 500;
+}
+
+
+body{
+	margin-top:20px;
+	padding-top: 55px;
+	padding-bottom: 200px;
+}
+  .price-innerdetail h5 {
+        font-weight: 400;
+        letter-spacing: 2px;
+        font-size: 15px; 
+    }
+    
+    .price-innerdetail p {
+        font-size: 50px;
+    }
+    
+    .detail-pricing {
+        border-bottom: 1px solid;
+        padding: 30px 0 30px 0;
+    }
+    
+    .detail-pricing .float-left {
+        padding: 0 0 0 40px;
+    }
+    
+    .detail-pricing .float-left i {
+        position: absolute;
+        left: 0;
+        font-size: 20px;
+    }
+    
+    .detail-pricing span {
+        display: inline-block;
+        position: relative;
+        font-weight: 400;
+    }
+    
+    .wrap-price {
+        background: rgba(32, 33, 36, .1);
+        padding: 50px 20px 50px;
+        border-radius: 10px;
+    }
+    
+    .center-wrap {
+        background: #070707;
+        color: #fff;
+    }
